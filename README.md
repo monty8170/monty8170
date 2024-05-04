@@ -8,8 +8,8 @@
 <h2> Certifications </h2>
 
 - <b>Cisco CCST Network (Projected Test Date: 6/2024)</b>
-- <b>CompTIA Linux+ (Projected Test Date: 7/2024)</b>
 - <b>AWS Certified Cloud Practitioner (Projected Test Date: 7/2024)</b>
+- <b>CompTIA Security+ (Projected Test Date: 8/2024)</b>
 
 
 <!--IDEAS
