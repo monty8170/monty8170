@@ -5,10 +5,7 @@
 - <b>Active Directory Home Lab</b>
   - [Create an Active Directory Home Lab](https://github.com/monty8170/ADHomeLab/tree/main)
 
-<h2> Certifications </h2>
 
-- <b>Cisco CCST Network (Projected Test Date: 6/2024)</b>
-- <b>CompTIA Security+ (Projected Test Date: 8/2024)</b>
 
 
 <!--IDEAS
